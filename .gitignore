@@ -1,0 +1,16 @@
+# Sensitive assessment artifacts
+*.pdf
+*.sql
+*.db
+*.sqlite
+*.sqlite3
+*.zip
+*password*
+*hash*
+raw-evidence/
+private-evidence/
+evidence-private/
+
+# Local/system files
+.DS_Store
+Thumbs.db
